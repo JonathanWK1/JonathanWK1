@@ -1,5 +1,4 @@
 ### Hi there 👋
-@JonathanWK1
 - 🔭 I’m currently working on Bina Nusantara IT Division
 - 🌱 I’m currently learning Game Development and Web Development
 
