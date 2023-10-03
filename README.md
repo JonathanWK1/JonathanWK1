@@ -7,8 +7,23 @@
 
 ![](https://github.com/JonathanWK1/JonathanWK1/blob/main/youtube-video-gif.gif)
 
-# it is a simple racing game, in this game you are competing with 9 other AI,to get the best time. build using godot full gdscript and shader
+it is a simple racing game, in this game you are competing with 9 other AI,to get the best time. build using godot full gdscript and shader, and a submission to BGDJam 2022
 
+
+## 2. Slime Splitter
+
+![image](https://github.com/JonathanWK1/JonathanWK1/assets/87254023/2b40ffa7-b888-4a85-8d3e-5121234d7230)
+
+
+Slime Splitter is a tactical arcade top down shooter game, simple but addicting, 
+you can kill or split the slime so it become weaker and get more score out of it and a submission to GMTK 2021
+
+
+## 3. Dice Core
+
+![](https://github.com/JonathanWK1/JonathanWK1/blob/main/image.png)
+
+A top down shooter game, with an unique dice core mechanic to gain more score, and a submission to GMTK 2022
 
 
 <!--
