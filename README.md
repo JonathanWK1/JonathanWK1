@@ -21,7 +21,7 @@ you can kill or split the slime so it become weaker and get more score out of it
 
 ## 3. Dice Core
 
-![](https://github.com/JonathanWK1/JonathanWK1/blob/main/image.png)
+![](https://github.com/JonathanWK1/JonathanWK1/blob/main/2023-10-03%2010-03-33.gif)
 
 A top down shooter game, with an unique dice core mechanic to gain more score, and a submission to GMTK 2022
 
