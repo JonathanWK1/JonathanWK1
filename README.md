@@ -12,7 +12,7 @@ it is a simple racing game, in this game you are competing with 9 other AI,to ge
 
 ## 2. Slime Splitter
 
-![image](https://github.com/JonathanWK1/JonathanWK1/assets/87254023/2b40ffa7-b888-4a85-8d3e-5121234d7230)
+![image](https://github.com/JonathanWK1/JonathanWK1/blob/main/2023-10-03%2010-03-33.gif)
 
 
 Slime Splitter is a tactical arcade top down shooter game, simple but addicting, 
