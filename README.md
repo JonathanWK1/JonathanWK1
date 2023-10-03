@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on Bina Nusantara IT Division
 - 🌱 I’m currently learning Game Development and Web Development
 
-1. Boost racer
-
+#1. Boost racer
 
 ![](https://github.com/JonathanWK1/JonathanWK1/blob/main/youtube-video-gif.gif)
 <!--
