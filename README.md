@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Game Development and Web Development
 
 ### My Project 
-##1. Boost racer
+## 1. Boost racer
 
 ![](https://github.com/JonathanWK1/JonathanWK1/blob/main/youtube-video-gif.gif)
 
-#it is a simple racing game, in this game you are competing with 9 other AI,to get the best time. build using godot full gdscript and shader
+# it is a simple racing game, in this game you are competing with 9 other AI,to get the best time. build using godot full gdscript and shader
 
 
 
