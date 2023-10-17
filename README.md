@@ -1,6 +1,9 @@
+![image](https://github.com/JonathanWK1/JonathanWK1/blob/main/github-header-image.png)
+
 ### Hi there 👋
 - 🔭 I’m currently working on Bina Nusantara IT Division
 - 🌱 I’m currently learning Game Development and Web Development
+
 
 ### My Project 
 ## 1. Boost racer
