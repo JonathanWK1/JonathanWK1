@@ -1,4 +1,4 @@
-![image](https://github.com/JonathanWK1/JonathanWK1/blob/main/github-header-image.png)
+![image](https://github.com/JonathanWK1/JonathanWK1/blob/main/github-header-image%20(1).png)
 
 ### Hi there 👋
 - 🔭 I’m currently working on Bina Nusantara IT Division
