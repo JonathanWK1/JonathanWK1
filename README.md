@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td><img src="https://github.com/JonathanWK1/JonathanWK1/blob/main/youtube-video-gif.gif"/></td>
-      <td><img src="https://github.com/JonathanWK1/JonathanWK1/blob/main/coin%20chess.png"/></td>
+      <td><img src="https://github.com/JonathanWK1/JonathanWK1/blob/main/coin%20chess.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">It is a simple racing game, in this game you are competing with 9 other AI,to get the best time. build using godot full gdscript and shader, and a submission to BGDJam 2022. </td>
